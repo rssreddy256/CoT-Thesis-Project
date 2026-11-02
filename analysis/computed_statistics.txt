@@ -1,0 +1,62 @@
+N participants: 25
+
+==============================================================================
+1. PER-DIMENSION STATISTICS  (participant-level, n=25)
+==============================================================================
+Dimension              CoT M(SD) Mdn[IQR] Std M(SD) Mdn[IQR]    Diff        Z       p      r
+Ease of understanding  4.19(0.50) 4.10[4.00,4.40] 2.53(0.34) 2.40[2.30,2.70]    1.66   -4.374   6e-08  0.875
+Process understanding  4.23(0.45) 4.30[4.10,4.40] 2.44(0.22) 2.40[2.30,2.60]    1.79   -4.373   6e-08  0.875
+Trust                  4.11(0.37) 4.20[4.10,4.30] 2.59(0.26) 2.60[2.40,2.80]    1.52   -4.347 1.2e-07  0.869
+Confidence             4.11(0.40) 4.10[4.00,4.40] 2.51(0.24) 2.50[2.40,2.60]    1.60   -4.374   6e-08  0.875
+Perceived transparency 4.10(0.37) 4.20[3.90,4.30] 2.51(0.23) 2.50[2.40,2.60]    1.59   -4.376   6e-08  0.875
+Explanation clarity    4.01(0.37) 4.10[3.80,4.30] 2.40(0.19) 2.40[2.30,2.50]    1.62   -4.375   6e-08  0.875
+
+Holm-adjusted p values (6 comparisons):
+   Ease of understanding  raw p = 5.96e-08   Holm p = 3.58e-07   W = 0
+   Process understanding  raw p = 5.96e-08   Holm p = 3.58e-07   W = 0
+   Trust                  raw p = 1.19e-07   Holm p = 3.58e-07   W = 1
+   Confidence             raw p = 5.96e-08   Holm p = 3.58e-07   W = 0
+   Perceived transparency raw p = 5.96e-08   Holm p = 3.58e-07   W = 0
+   Explanation clarity    raw p = 5.96e-08   Holm p = 3.58e-07   W = 0
+
+==============================================================================
+2. OVERALL EXPLORATORY INDEX
+==============================================================================
+CoT      M=4.1247 SD=0.3415 Mdn=4.20 IQR=[4.02, 4.33]
+Standard M=2.4960 SD=0.1586 Mdn=2.48 IQR=[2.40, 2.53]
+Difference (unrounded means) = 1.6287
+W = 0, exact p = 5.96e-08, Z = -4.373, r = 0.875
+Participant-level differences: min=0.2833 max=2.0667, all positive: True
+Number favouring CoT: 25 of 25
+
+==============================================================================
+3. CRONBACH'S ALPHA
+==============================================================================
+   Understanding items (1 and 2)  CoT       alpha = 0.551
+   Understanding items (1 and 2)  Standard  alpha = 0.022
+   Understanding items (1 and 2)  pooled    alpha = 0.936
+   Trust items (3 and 4)          CoT       alpha = 0.849
+   Trust items (3 and 4)          Standard  alpha = 0.491
+   Trust items (3 and 4)          pooled    alpha = 0.971
+
+==============================================================================
+4. RQ4  SPEARMAN CORRELATION, explanation clarity vs trust
+==============================================================================
+   CoT       rho = 0.3718   p = 0.0672   n = 25
+   Standard  rho = 0.2096   p = 0.3147   n = 25
+
+==============================================================================
+5. BACKGROUND ITEMS
+==============================================================================
+   How frequently do you use AI tools such as ChatGPT, Gemini, Claude, or similar systems?
+      Daily                        20  (80%)
+      Several times a week          5  (20%)
+   How would you describe your experience with AI tools?
+      Advanced                     14  (56%)
+      Intermediate                 11  (44%)
+   What is your academic or professional background?
+      Data Science / AI            10  (40%)
+      Engineering                   5  (20%)
+      Computer Science / IT         4  (16%)
+      Other technical field         4  (16%)
+      Non-technical field           2  (8%)
