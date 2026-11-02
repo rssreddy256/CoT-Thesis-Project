@@ -1,0 +1,58 @@
+GENERATION PROMPTS
+==================
+
+Both conditions were generated with GPT-5 mini through the ChatGPT web
+interface. Each condition used one session, with the prompt below held fixed
+across all ten questions in that session. Decoding parameters such as
+temperature were not exposed by the interface and are therefore not recorded.
+
+
+STANDARD CONDITION
+------------------
+
+   You are participating in an academic research experiment on AI-generated
+   responses.
+
+   Answer the following question clearly and concisely.
+
+   Requirements:
+   1. Provide the final answer directly.
+   2. Do not provide a step-by-step reasoning process.
+   3. Do not provide an extended explanation.
+   4. Do not introduce information that is not required to answer the
+      question.
+
+   Question: [question text]
+
+
+CHAIN-OF-THOUGHT CONDITION
+--------------------------
+
+   You are participating in an academic research experiment on AI-generated
+   responses.
+
+   Answer the following question and provide a clear, step-by-step explanation
+   that helps a user understand how the answer was obtained.
+
+   Requirements:
+   1. Explain the reasoning clearly and logically.
+   2. Present the relevant intermediate steps needed to understand the answer.
+   3. Do not introduce irrelevant information.
+   4. Clearly state the final answer at the end.
+
+   Question: [question text]
+
+
+NOTE ON THE DIFFERENCE
+----------------------
+
+The two prompts share the same opening sentence and differ in what they require
+of the response. The standard prompt contains three prohibitions: no
+step-by-step reasoning, no extended explanation, and no unrequired information.
+The CoT prompt requires reasoning and intermediate steps. Both prohibit
+irrelevant information.
+
+This means the brevity of the standard responses was imposed by instruction
+rather than arising incidentally, and that the two conditions differ in response
+length and level of detail as well as in the presence of an explanation. This is
+stated as a limitation in the thesis (caveat C1, Section 5.2).
