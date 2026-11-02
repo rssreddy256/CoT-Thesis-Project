@@ -1,0 +1,85 @@
+SURVEY INSTRUMENT (BLANK)
+=========================
+
+Administered through Google Forms. This is the instrument as presented, with no
+participant responses. Three background items, then two blocks of ten evaluation
+items. Participants were shown the response material as two PDF attachments.
+
+
+INTRODUCTION AND CONSENT
+------------------------
+
+   Evaluation of AI-Generated Responses and Explanations
+
+   This survey is part of a Master's thesis study investigating how different
+   types of AI-generated responses influence users' understanding, trust, and
+   perception of transparency.
+
+   You will be asked to review AI-generated responses to several
+   reasoning-related questions and provide your opinions about the responses.
+
+   Participation is voluntary. The survey takes approximately 10-15 minutes to
+   complete. No personally identifiable information will be collected, and the
+   responses will be used only for academic research purposes.
+
+
+BACKGROUND ITEMS  (all mandatory)
+---------------------------------
+
+1. How frequently do you use AI tools such as ChatGPT, Gemini, Claude, or
+   similar systems?
+      Daily / Several times a week / Once a week / Occasionally / Rarely
+
+2. How would you describe your experience with AI tools?
+      Beginner / Basic / Intermediate / Advanced / Expert
+
+3. What is your academic or professional background?
+      Computer Science / IT
+      Data Science / AI
+      Engineering
+      Other technical field
+      Non-technical field
+      Other
+
+No other demographic information was collected. Gender, age and country were
+not asked.
+
+
+PRESENTATION OF THE RESPONSE MATERIAL
+-------------------------------------
+
+   You will be presented with AI-generated responses to several questions.
+   Please read each response carefully and evaluate it based on your own
+   perception. There are no right or wrong answers for the evaluation
+   questions.
+
+The questionnaire then presented two blocks of ten evaluation items each, headed
+"Response A" and "Response B". Response A contained the Chain-of-Thought
+responses and Response B the standard responses. The headings gave no indication
+of which block was which, so participants were blind to the condition; the order
+of the blocks was the same for every participant.
+
+
+EVALUATION ITEMS
+----------------
+
+Each of the twenty responses was rated on the same six statements. Item stem:
+
+   "Please indicate how much you agree with the following statements about the
+   response you just read."
+
+   1. The response was easy to understand.
+   2. I clearly understood how the answer was obtained.
+   3. I trust the answer provided by the AI system.
+   4. I would feel confident relying on this answer.
+   5. The response made the reasoning behind the answer transparent.
+   6. The explanation was clear and useful.
+
+Scale:
+   1 - Strongly Disagree
+   2 - Disagree
+   3 - Neither Agree nor Disagree
+   4 - Agree
+   5 - Strongly Agree
+
+The questionnaire contained no open-ended items.
