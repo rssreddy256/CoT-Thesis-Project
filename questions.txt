@@ -1,0 +1,57 @@
+EXPERIMENTAL QUESTIONS
+======================
+
+The ten questions presented to participants. Each was answered twice by
+the same model, once under the standard prompt and once under the
+Chain-of-Thought prompt (see prompts.txt).
+
+Q1  [Mathematical Reasoning]
+   A bat and a ball cost EUR 1.10 in total. The bat costs EUR 1.00 more than
+   the ball. How much does the ball cost?
+
+Q2  [Logical Reasoning]
+   All researchers in a laboratory have access to the laboratory's database.
+   Some people who have access to the database are interns. Can we conclude
+   that some researchers in the laboratory are interns? Explain your answer.
+
+Q3  [Commonsense / Situational Reasoning]
+   A doctor gives a patient three tablets and tells the patient to take one
+   tablet every 30 minutes. How long will it take the patient to take all
+   three tablets? Explain your answer.
+
+Q4  [Social and Interpersonal Reasoning]
+   A colleague who is normally very talkative becomes unusually quiet during
+   a team meeting. What are some possible reasons for this behaviour, and
+   how should you respond appropriately?
+
+Q5  [Multi-Step Mathematical Reasoning]
+   A jacket is originally priced at EUR 200. The store offers a 25%
+   discount. During a special promotion, an additional 10% discount is
+   applied to the discounted price. What is the final price of the jacket?
+
+Q6  [Deductive Reasoning]
+   Every employee who has completed the security training is allowed to
+   access the company's internal system. Daniel is not allowed to access the
+   internal system. Can we conclude that Daniel has not completed the
+   security training? Explain your answer.
+
+Q7  [Cause-and-Effect Reasoning]
+   A company introduces a new software system, and employee productivity
+   decreases during the following month. Can the company conclude that the
+   new software system caused the decrease in productivity? What other
+   factors should be considered?
+
+Q8  [Scenario-Based Decision-Making]
+   You are managing a software project that is one week away from its
+   deadline. Two team members become unavailable, and three important tasks
+   are still incomplete. What should the project manager consider when
+   deciding which tasks to prioritize?
+
+Q9  [Ambiguous / Uncertain Reasoning]
+   John went to the bank after work and returned home two hours later than
+   usual. What was the reason for John's delay?
+
+Q10 [Risk and Evidence Evaluation]
+   A social media post claims that a new medicine can completely prevent a
+   particular disease. What information should you consider before deciding
+   whether the claim is trustworthy?
